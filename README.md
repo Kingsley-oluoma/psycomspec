@@ -1,5 +1,5 @@
 # PsycomSpec 🧠📊
-https://github.com/Kingsley-oluoma/psycomspec/blob/main/images
+
 **AI-powered platform for real-time relational intelligence**
 
 PsycomSpec is a research-driven tool that aims to analyze, track, and visualize the quality of psychological contracts — the unwritten expectations in relationships, teams, and organizations — using natural language processing (NLP), predictive analytics, and real-time feedback systems.
